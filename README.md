@@ -1,4 +1,4 @@
 # Project-Nobody
-publisheded
+Publisheded
 
-#this is a text based c++ game
+#This is a text based c++ game
